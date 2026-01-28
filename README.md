@@ -10,7 +10,7 @@ Here are some of the apps I've built and currently maintain:
 
 | Icon | App | Description |
 | :--- | :--- | :--- |
-| <img src="[URL ALL'ICONA DI CHORDQUEST]" width="48"> | **ChordQuest** | A practice tool for musicians to build muscle memory and master chord changes. |
+| <img src="assets/chordQuest_icon.jpg" width="48"> | **ChordQuest** | A practice tool for musicians to build muscle memory and master chord changes. |
 | <img src="assets/chess-pgn-annotator_icon.jpg" width="48"> | **Chess - PGN Annotator** | An Android app for annotating your chess games. |
 
 #### Get them on Google Play:
